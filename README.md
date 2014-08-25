@@ -58,7 +58,7 @@ Directories
 * output, grab your results from here
 * scripts, this is where the magic happens
 * source, put your files here
-* temp, stageing directory for scripts
+* temp, staging directory for scripts
 
 Future Versions
 ===============
