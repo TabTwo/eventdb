@@ -1,8 +1,5 @@
 eventdb
 =======
-
-little tools to convert lists of events
-
 Take an spreadsheet and convert it to an ics-file.
 
 Prerequisites
