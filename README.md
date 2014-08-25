@@ -1,6 +1,6 @@
 eventdb
 =======
-Take an spreadsheet and convert it to an ics-file.
+Take a spreadsheet and convert it to an ics-file.
 
 Prerequisites
 =============
