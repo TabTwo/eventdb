@@ -13,6 +13,14 @@ Prerequisites
 * rem2html https://github.com/SwissKid/rem2html
 * make https://www.gnu.org/software/make/
 
+Installation
+============
+	$ mkdir events
+	$ cd events
+	$ git clone https://github.com/TabTwo/eventdb.git
+	$ git clone https://github.com/scy/rem2ics
+	$ git clone https://github.com/SwissKid/rem2html
+
 Sourcefiles
 ===========
 * remind-scripts for repeating events like Valentine's Day
