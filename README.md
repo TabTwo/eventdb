@@ -42,7 +42,7 @@ I also use remind here as processor for the html-calendar and for the ics.
 Output
 ======
 * events-ikiwiki.csv, use it with events.mdwn in ikiwikis table directive https://ikiwiki.info/ikiwiki/directive/table/
-* events-remind.rem, a basic remind-script with all events
+* events.rem, a basic remind-script with all events
 * events.ics, import it to your calendar
 * events.html, a html calendar
 
