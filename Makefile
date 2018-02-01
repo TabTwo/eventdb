@@ -1,8 +1,3 @@
-github:
-	git add .
-	git commit -a -m "automatic commit"
-	git push origin master
-
 sense:
 	cat source/*.csv > temp/stage1-from-csv.csv
 	cat source/*.rem > temp/stage1.rem
