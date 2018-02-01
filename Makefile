@@ -15,5 +15,5 @@ sense:
 	# outputs
 	perl scripts/csv2ikiwiki.pl temp/stage3.csv > output/events-ikiwiki.csv
 	remind -m -p36 temp/events-html.rem | perl ../rem2html/rem2html --nomini --title Events > output/events.html
-	remind -s360 -irem2ics=1 temp/events-ics.rem 1 Jan 2014 | TZ=CEST HOSTNAME=foo perl ../rem2ics/rem2ics -do -norecur -usetag > output/events.ics
+	remind -s360 -irem2ics=1 temp/events-ics.rem 1 Jan 2018 | TZ=CEST HOSTNAME=foo perl ../rem2ics/rem2ics -do -norecur -usetag > output/events.ics
 	perl scripts/csv2rem.pl temp/stage3.csv > output/events.rem
